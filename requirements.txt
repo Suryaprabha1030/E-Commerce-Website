@@ -6,4 +6,3 @@ platformdirs==3.11.0
 setuptools==68.2.2
 virtualenv==20.24.6
 django==3.2
-jazzmin==2.1.3
