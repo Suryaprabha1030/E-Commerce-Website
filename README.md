@@ -1,4 +1,5 @@
 Arozakart is E-Commerce website build using Django
+
 Features of Arozakart :
 1. Home Page
    
