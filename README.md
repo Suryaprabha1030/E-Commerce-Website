@@ -1,10 +1,13 @@
 Arozakart is E-Commerce website build using Django
 Features of Arozakart :
 1. Home Page
+   
 ![ECOM-1](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/c94ea2f6-b029-478b-8804-65d8c323fb2a)
 2.Main Page - Products Page
+
 ![ECOM-2](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/73882bcd-8f62-4518-a1fc-310b056c690d)
 3. Footer Page - About Section
+
 ![ECOM-3](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/fb15029e-4f62-4262-9619-9b093ba3903d)
 ![ECOM-4](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/6f939050-5a0a-4d65-9e40-ee960995feaf)
 ![ECOM-5](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/8b67586d-0da0-4dff-a75c-e6ab9208424d)
