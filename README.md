@@ -39,13 +39,17 @@ Features of Arozakart :
    
 ![ECOM-13A](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/11b103ff-3b1a-49ad-9a58-35a69ab13270)
 ![ECOM-14](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/a267a693-af7d-4d72-be3a-5c90d06f0171)
-13. Notification OF Product Added to cart
+13. Alert Message of Product Added to cart
 
 ![ECOM-15](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/c58db2f4-cc0c-4ab8-a41c-a111f41595e6)
-14. Product Cart Page with details of ( Image, Product Name, Price per Item, Quantity, Total Amount, Remove Button to remove product )
+14. Alert Message of Product Added to Favourites
+
 ![ECOM-16](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/c76a4037-f592-4f4e-af05-c6e2e78fea51)
-15. Product Favourite Page with details of ( Image, Product Name, Price per Item, Quantity, Total Amount, Remove Button to remove product )
+14. Product Cart Page with details of ( Image, Product Name, Price per Item, Quantity, Total Amount, Remove Button to remove product )
+
 ![ECOM-17](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/b2f7df44-e3de-4d47-97f5-79ed5ae9a3b9)
+15. Product Favourite Page with details of ( Image, Product Name, Price per Item, Quantity, Total Amount, Remove Button to remove product )
+
 ![ECOM-17A](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/24367033-7c08-4ae3-901d-c8faab786de0)
 
 
