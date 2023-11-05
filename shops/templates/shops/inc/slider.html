@@ -1,0 +1,32 @@
+{% load static %}
+
+
+<div class="col-12 my-2"> 
+<div id="mySlide" class="carousel carousel-dark slide" data-bs-ride="carousel">  
+    <div class="carousel-inner">
+        <div class="carousel-item">
+            <img src="{% static 'images/e4.jpg'%}" class="d-block w-100 " style="height:620px; ;object-position:top;"   >
+            
+        </div> 
+        <div class="carousel-item active">
+            <img src="{% static 'images/e5.jpg'%}" class="d-block w-100" style="height:620px;" >
+            
+        </div> 
+        <div class="carousel-item">
+            <img src="{% static 'images/e3.jpg'%}" class="d-block w-100" style="height:620px;object-position:bottom;" >
+            
+        </div> 
+        
+        
+    
+    <button  class="carousel-control-prev " data-bs-target="#mySlide" type="button" data-bs-slide="prev">
+        <b><span class="carousel-control-prev-icon"></span></b>
+    </button>
+    <button  class="carousel-control-next " data-bs-target="#mySlide" type="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div> 
+</div>
+</div>
+
+

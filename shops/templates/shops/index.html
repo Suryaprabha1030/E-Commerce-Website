@@ -1,0 +1,31 @@
+{% extends 'shops/layouts/main.html' %}
+{% block title %} surya here{% endblock title %}
+{% block content %}
+{% include 'shops/inc/slider.html'%}
+
+
+<div class="container">
+    <div class="row">
+<h4 class="col-12 " style="margin-top:80px;">Latest Offers</h4>
+<hr style="border-color:#b8bfc2">
+{% for item in products %}
+<div class="col-md-4 col-lg-3 mb-5">
+    <div class="card my-3">
+        <img src="{{item.product_image.url}}" class="card-image-top" alt="Catagories">
+        <a href="{% url 'product_details' item.catagory.name item.name %}">
+        <div class="card-body">
+            <div class="card-title text-primary">{{item.name}}</div>
+            <div class="card-text"> 
+                
+                <span class="float-start" id="oldprice"><s> RS.{{item.priginal_price | stringformat:'d'}}</s> </span> 
+                <span class="float-end"  id="newprice">RS.{{item.selling_Price | stringformat:'d'}} </span>  
+            </div> 
+          
+        </div>
+        </a>
+    </div>
+</div>
+{% endfor %}
+</div>
+</div>
+{%  endblock content %}
