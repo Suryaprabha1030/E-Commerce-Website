@@ -1,6 +1,4 @@
-![ECOM-22](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/439f1c71-ca5a-4400-8fc1-e8e6c8c2771f)
-![ECOM-23](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/5aa8d14c-fbb5-4f08-aff1-42b485fd1028)
-![ECOM-24](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/4b23a9dc-051f-47ce-9a3f-f9ade1262274)
+
 ![ECOM-1](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/c94ea2f6-b029-478b-8804-65d8c323fb2a)
 ![ECOM-2](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/73882bcd-8f62-4518-a1fc-310b056c690d)
 ![ECOM-3](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/fb15029e-4f62-4262-9619-9b093ba3903d)
