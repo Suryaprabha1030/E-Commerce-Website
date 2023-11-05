@@ -35,11 +35,8 @@ Features of Arozakart :
 ![ECOM-10](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/fc68ac78-c08b-45d6-a323-cf20b92c9ea0)
 
 ![ECOM-13](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/59a8051a-111b-4509-b8b4-934863b7137a)
-12. Product with Specification 
-   Shows Current Price & Offer Price for Comparision
-   Quantity selection
-   Add to Cart Button
-   Add to Favourites Button
+12. Product with Specification - ( Shows Current Price & Offer Price for Comparision, Quantity selection Button, Add to Cart Button, Add to Favourites Button )
+   
 ![ECOM-13A](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/11b103ff-3b1a-49ad-9a58-35a69ab13270)
 ![ECOM-14](https://github.com/Suryaprabha1030/E-Commerce-Website/assets/149596831/a267a693-af7d-4d72-be3a-5c90d06f0171)
 13. Notification OF Product Added to cart
