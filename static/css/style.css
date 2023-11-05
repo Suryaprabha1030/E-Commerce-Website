@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+a{
+    text-decoration:none;
+}
+.carousel-item  img {
+    object-fit: cover;
+    object-position:top; 
+    height:100vh;
+    /* overflow:hidden; */
+ } 
+
+#oldprice{
+    font-weight: bold;
+    color:red;
+}
+#newprice{
+    font-weight: bold;
+    background-color:green;
+    color:white;
+}
+
+.bg{
+color: aqua;
+}
+#picbox{
+    position: relative;
+}
+#hot{
+    background-color: orangered;
+    width:50px;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    display: inline-block;
+    border-radius:5px;
+    padding:5px;
+    position: absolute;
+    top:0;
+    right:20px;
+    z-index:10 ;
+
+}
